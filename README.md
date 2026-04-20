@@ -62,6 +62,20 @@ The dataset contains transactional sales data with the following fields:
 
 * parrys corner powerbi.pbix
 * final_data.xlsx
+* ## Dashboard Preview
+
+### Food Sales Performance Dashboard
+
+![Food Sales Dashboard](dashboard_page1_food_sales.png)
+
+### Monthly Sales Performance Dashboard
+
+![Monthly Sales Dashboard](dashboard_page2_monthly_sales.png)
+
+### Product and Profit Performance Analysis
+
+![Product Profit Dashboard](dashboard_page3_product_profit.png)
+
 
 ## Author
 
